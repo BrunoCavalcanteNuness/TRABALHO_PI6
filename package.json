@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-navigation/drawer": "^7.5.8",
+    "@react-navigation/native-stack": "^7.3.26"
+  }
+}
